@@ -1,6 +1,14 @@
 # これは何
 はてなブログの全記事の記事名とURLを取得するやつ
 
+# ファイル説明
+## blog.ipynb
+開発するときに使ったJupiter labでのごちゃごちゃ。
+## get_hatenablog_article_url.py
+本体
+## readme.md
+このファイル。りーどみー。
+
 # 使い方
 1. python get_hatenablog_article_url.py
 2. 取得したいブログのURLを貼り付ける。テキトーな記事でOK
